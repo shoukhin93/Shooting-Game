@@ -1,0 +1,16 @@
+E:\Programming\Projects\Shooting Game\Shooting Game\bin\Debug\Shooting Game.exe.config
+E:\Programming\Projects\Shooting Game\Shooting Game\bin\Debug\Shooting Game.exe
+E:\Programming\Projects\Shooting Game\Shooting Game\bin\Debug\Shooting Game.pdb
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting Game.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting_Game.Form1.resources
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting_Game.Properties.Resources.resources
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting Game.csproj.GenerateResource.Cache
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting Game.exe
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting Game.pdb
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting_Game.Main_Page.resources
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting_Game.Help.resources
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting_Game.About.resources
+E:\Programming\Projects\Shooting Game\Shooting Game\bin\Debug\Shooting Game.exe.manifest
+E:\Programming\Projects\Shooting Game\Shooting Game\bin\Debug\Shooting Game.application
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting Game.exe.manifest
+E:\Programming\Projects\Shooting Game\Shooting Game\obj\Debug\Shooting Game.application
