@@ -1,6 +1,6 @@
 # Shooting Game
 
-Two player with the same pc can play the game. Just collect bullets, granades and morters and start smashing the opponet
+Two player with the same pc can play the game. Just collect bullets, granades and morters and start smashing the opponent Player!
 
 Controls for player 1
 
